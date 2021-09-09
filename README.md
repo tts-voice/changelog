@@ -3,6 +3,7 @@
 ### **Changelog - 08-Sept-2021**
 1. Change article speed (upto 2x speed).
 2. Bug fixes and performance improvements.
+3. Improved caching for faster platform performance.
 ---
 ### **Changelog - 31-Aug-2021**
 1. More platform support for automatic article parsing.
