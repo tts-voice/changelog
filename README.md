@@ -1,5 +1,10 @@
 # Voicera' Changelog
 
+### **Changelog - 10-Sept-2021**
+1. Added 10+ languages and dialects from across the world, including English (Australia), Spanish, French. *(Available in both Male and Female versions.)*
+2. Now Sign in using your Twitter account.
+3. Bug fixes and performance improvements.
+---
 ### **Changelog - 08-Sept-2021**
 1. Change voice' speed (upto 2x speed).
 2. Bug fixes and performance improvements.
