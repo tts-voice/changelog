@@ -1,7 +1,7 @@
 # Voicera' Changelog
 
 ### **Changelog - 08-Sept-2021**
-1. Change article speed (upto 2x speed).
+1. Change voice' speed (upto 2x speed).
 2. Bug fixes and performance improvements.
 3. Improved caching for faster platform performance.
 ---
