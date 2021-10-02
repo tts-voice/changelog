@@ -2,7 +2,7 @@
 
 ### **Changelog - 01-October-2021**
 1. Payments are now live. One click payments and get 100k credits.
-2. Embed performance optimiztion on slow networks.
+2. Embed performance optimization on slow networks.
 3. Bug fixes and performance improvements.
 ---
 
