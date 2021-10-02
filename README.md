@@ -1,5 +1,11 @@
 # Voicera' Changelog
 
+### **Changelog - 01-October-2021**
+1. Payments are now live. One click payments and get 100k credits.
+2. Embed performance optimiztion on slow networks.
+3. Bug fixes and performance improvements.
+---
+
 ### **Changelog - 10-Sept-2021**
 1. Added 10+ languages and dialects from across the world, including English (Australia), Spanish, French. *(Available in both Male and Female versions.)*
 2. Now Sign in using your Twitter account.
