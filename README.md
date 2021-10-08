@@ -1,5 +1,11 @@
 # Voicera' Changelog
 
+### **Changelog - 07-October-2021**
+1. Introducing, All new Voicera embed. Cleaner, faster, Gives more information on the audio.
+2. Improved audio load using CDN cache.
+3. Bug fixes and performance improvements.
+---
+
 ### **Changelog - 01-October-2021**
 1. Payments are now live. One click payments and get 100k credits.
 2. Embed performance optimization on slow networks.
