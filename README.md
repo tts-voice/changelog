@@ -2,7 +2,7 @@
 
 ### **Changelog - 07-October-2021**
 1. Introducing, All new Voicera embed. Cleaner, faster, Gives more information on the audio.
-2. Improved audio load using CDN cache.
+2. Upto 50% faster audio load.
 3. Bug fixes and performance improvements.
 ---
 
