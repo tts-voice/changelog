@@ -1,5 +1,10 @@
 # Voicera' Changelog
 
+### **Changelog - 11-October-2021**
+1. Now you can listen to the voice you choose and compare it with other voice on the dasboard.
+2. Seperated Language and Voice for cleaner selection of audio.
+---
+
 ### **Changelog - 07-October-2021**
 1. Introducing, All new Voicera embed. Cleaner, faster, Gives more information on the audio.
 2. Upto 50% faster audio load.
