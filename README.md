@@ -8,8 +8,8 @@
 
 ### **Changelog - 11-October-2021**
 ![Changelog Image](/images/11oct2021.png)
-1. Now you can listen to the voice you choose and compare it with other voice on the dasboard.
-2. Seperated Language and Voice for cleaner selection of audio.
+1. Now you can listen to the voice you choose and compare it with other voices on the dashboard.
+2. Seperated Language and Voice option for cleaner selection of audio.
 ---
 
 ### **Changelog - 07-October-2021**
