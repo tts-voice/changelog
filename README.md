@@ -1,6 +1,7 @@
 # Voicera' Changelog
 
 ### **Changelog - 01-November-2021**
+![Changelog Image](/images/languages.png)
 1. 200+ languages and dialects + Indian (Regional) languages now LIVE for enterprise customers.
 2. Fixed Twitter login issue.
 3. Bug fixes and performance improvements.
